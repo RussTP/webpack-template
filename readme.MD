@@ -16,5 +16,5 @@
 10. npm run build <!--npm run build to initiate script for the package.json to transpile the code-->
 11. git add . or git add --a <!--add content-->
 12. git commit -m "initial commit" <!--commit content-->
-13. git push origin -main <!--push commit to origin-->
+13. git push origin main <!--push commit to origin-->
 14. npm run deploy <!--npm run deploy when you are ready to deploy the project and create GitHub page for repo-->
